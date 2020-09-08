@@ -1,0 +1,12 @@
+El proyecto final, lo he realizado un poco según he entendido lo que pedían, no se si realmetne era esto o no.
+
+En teoría hace lo que haría una tienda además de modificar/registrar fabricantes,piezas etc etc
+
+Te entrego las bases de datos tal cual se han ido haciendo durante el trabajo, es posible que haya bastante basura, en principio se pueden borrar y crear otra vez siempre que se descomente la parte de crear las bases
+
+Faltaría pulir alguna cosa más como alguna excepción, aparte de poder comprar una pieza especifica mediante una busqueda de piezas y no que te diese una pìeza por defecto, esto se puede hacer buscando el fabricante
+
+
+He puesto muchos comentarios pare intentar que el program sea menos lioso de comprender, aparte de esto debería estar mejor estructurado pero no me da tiempo que justo empiezo examenes esta semana.
+
+Muchas gracias por todo , Miguel
